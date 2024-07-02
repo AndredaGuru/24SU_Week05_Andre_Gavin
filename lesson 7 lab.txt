@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<body>
+  <head>
+  <style>
+	body{
+		background-color: #add8e6;
+		color: #321;
+	}
+	h1 {
+		color: #692
+	}
+	p {
+		color: #0066cc
+	}
+  </style>
+  </head>
+  <body>
+    <h1> Andre's Intro </h1>
+	<p>My name is Andre Gavin. I am a student at Wake Tech in NC, working on my Software Development Associate's degree. It has been quite a journey since graduating high school, but the journey continues. I play  basketball, and 
+	enjoy watching anime. Oldest out of 5 siblings, and have 2 dogs, some fish, a bearded dragon and 2 guinea pigs. Welcome to my hectic world. </p>
+  </body>
+  </html>
